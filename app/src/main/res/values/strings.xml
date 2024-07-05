@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AddressBookBehindTheScenesHW</string>
+    <string name="titleInput">Книга контактов</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="enter_surname">Введите фамилию</string>
+    <string name="enter_address">Введите адрес</string>
+    <string name="enter_phone">Введите телефон</string>
+    <string name="save">Сохранить пользователя</string>
+    <string name="titleOutput">Карточка адресата</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="address">address</string>
+    <string name="phone">phone</string>
+</resources>
